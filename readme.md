@@ -4,7 +4,7 @@ SCSI2SD is an open project made by Michael McMaster that replace your old SCSI d
 
 # SCSI-TINY
 
-I made this new tiny design from the original SCSI2SD schematics using EAGLE PCB Software. This is a working and tested design by many users. They are on sale in AmigaStore and also a batch has been made in 2018 for the RETROWIKI forum.
+I made this new tiny design from the original SCSI2SD schematics using EAGLE PCB Software. This design contains two SD sockets, one for micro-sd and one for SD. This is a working and tested design by many users. They are on sale in AmigaStore and also a batch has been made in 2018 for the RETROWIKI forum.
 
 # Updates
 

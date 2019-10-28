@@ -12,7 +12,7 @@ I made this new tiny design from the original SCSI2SD schematics using EAGLE PCB
 
 # License
 
-SCSI2SD copyright by Michael McMaster.
+SCSI2SD copyright by Michael McMaster | http://www.codesrc.com/mediawiki/index.php?title=SCSI2SD
 
 This project is released under the GNU v3 license. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 

@@ -28,5 +28,7 @@ There is a copy of the GPLv3 license in this repository. If not, see http://www.
 
 # Feedback
 
-If you find any error on this description, please drop me an email to info@arananet.net or you could also buy me a beer or a Mercedez SLR.. or... :p
+If you find any error on this description, please drop me an email to info@arananet.net or # Feedback
 
+If you find any error on this description, please drop me an email to info@arananet.net or If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
